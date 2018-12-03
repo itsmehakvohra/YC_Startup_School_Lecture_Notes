@@ -1,0 +1,62 @@
+## Suhail Doshi founder of Mixpanel
+
+- Questions you need to ask yourself in your first 24 Months
+    1. Is my product easy to understand?
+        - Ways to measure your product being easy to understand
+            1. Do people bother to sign up?
+            2. Ratio of single page visits to multi-page engagment
+            3. B2B: Do they visit your pricing page?
+            4. Consumer: Performing A/B tests of your copywriting
+    2. Is it easy to get started with my product?
+        - Ways to measure your product being easy to get started
+            1. People who do one valuable thing (ie watch a video, doing a search..)
+            2. Measure a funnel of your initial user experience
+            3. Speed to doing the valuable thing
+    3. Are people coming back to my product?
+
+- You should be able to understand why you're not growing
+    - And fix it.
+
+- Tips and Tricks
+    - Email and text confimations have a huge drop offs
+    - Constantly iterate on your user inital user experience
+    - Let users into the product before asking them to sign up
+    - RETENTION IS SO IMPORTANT
+
+- Ways to measure people coming back:
+    1. New users who came back 1 week + 30 days later to do a valuable thing again
+    2. Number of people who use the product *every day* (DAU instead of MAU)
+    3. B2B: revenue churn - monthly $ lost in a given month
+        - Monthly churn adds up at the end of the year (ie 7% churn is 56% gone at the end of the year)
+
+- Write down all the feedback
+- Pick one northstar metric and monitor 3-5 metrics
+    - Less is more.
+    - Frequent mistake is having too many metrics to monitor.
+
+**Resources to check out:**
+
+- 16 Startup Metrics: [https://a16z.com/2015/08/21/16-metrics/](https://a16z.com/2015/08/21/16-metrics/)
+- After the TechCrunch bump: [https://redeye.firstround.com/2008/01/after-the-techc.html](https://redeye.firstround.com/2008/01/after-the-techc.html)
+- On Negative Churn (Not working): [tomtunguz.com/negative-churn/](http://tomtunguz.com/negative-churn/)
+- A/B testing by Eric Ries: [http://www.startuplessonslearned.com/2008/09/one-line-split-test-or-how-to-ab-all.html](http://www.startuplessonslearned.com/2008/09/one-line-split-test-or-how-to-ab-all.html)
+- The next feature fallacy: [https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/](https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
+
+**Q&A:**
+
+B2b:
+
+- 4-5% from visit to signup
+- Mixpanel publishes benchmark reports
+
+    [https://mixpanel.com/data-reports/2018-retail-ecommerce-benchmarks-report/](https://mixpanel.com/data-reports/2018-retail-ecommerce-benchmarks-report/)
+
+    [https://mixpanel.com/data-reports/2018-media-entertainment-benchmarks-report/](https://mixpanel.com/data-reports/2018-media-entertainment-benchmarks-report/)
+
+    [https://mixpanel.com/data-reports/2017-product-benchmarks-report/#usage](https://mixpanel.com/data-reports/2017-product-benchmarks-report/#usage)
+
+- Have a guiding principle
+
+---
+
+Video Link: [https://youtu.be/MABmQhOlmJA](https://youtu.be/MABmQhOlmJA)

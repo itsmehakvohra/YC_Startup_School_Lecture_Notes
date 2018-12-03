@@ -1,0 +1,75 @@
+## Talk by David Rusenko
+
+- **Create a market**
+    - Find a hidden need
+    - Where are you getting pulled. Find ways people are hacking your product to choose direction
+
+- **How to build a remarkable product**
+    1. Talk to customers and develop a market thesis
+    2. Listen to their problems, not solutions
+    3. Rapid prototyping and user testing
+        - Building a fully functional product for testing isn't right
+        - Focus on getting to a functional prototype as quickly as possible
+        - Don't worry about scaling until you need to
+        - Expect many iterations
+            - Build team that can do this quickly
+    4. Build their solution to their problems
+    5. Test solution with them
+        - Two solutions:
+            1.  Talk to target customers ( be open to changing view on who these people are )
+            2. Don't overthink it.
+        - Most helpful tools:
+            1. Customer interviews (5-10 needed)
+            2. UX Testing sessions (3-5 needed)
+                - UX Testing Sessions are simple and invaluable
+                    1. Get someone to use your app/service in front of you.
+                    2. Encourage them to give open and honest feedback
+                    3. Ask them to perform a task
+                    4. DONT SAY ANYTHING
+            3. Metrics - beware of telling too many stories with too little data
+    6. Work? No, go to 1
+
+    - **Prioritizing**
+        1. Only one thing matters
+
+            Focus only on the things that get you to your next milestone.
+
+        2. Optimize for learning
+
+            Most people prioritize by creating a list sorted by cost x benefit. Instead, ask yourself "what is our biggest unknown that would rewrite our priority list?"
+
+    - **How do I know I've achieved PMF?**
+        - Three key metrics
+            1. Returning users (Day 1,  3, 7, 30 retention)
+                - Biggest indicator things are working
+            2. NPS (Should be > 50)
+                - Would you recommend this product to a friend (1-10)
+                    - % that answer 9-10 are promoters
+                    - % that answer 0-6 these are detractors
+                    - % that answer 7-8 are thrown out
+            3. Paying customer renewal rates
+        - Don't pay attention to these metrics
+            1. Signups
+                - more of a reflection of market fit than PMF. You've identified something people want, but is it the right solution?
+            2. Converstion rate
+                - All conversion rates start low
+
+    - **Three things a startup needs to do to be successful**
+        1. Product that meaningfully better than alternatives
+        2. How to acquire customers in a differentiated way that scales
+        3. Invent your business model without killing your traction 
+
+        [https://brianbalfour.com/essays/hubspot-growth-framework-100m](https://brianbalfour.com/essays/hubspot-growth-framework-100m)
+
+    - **Scaling the team**
+        - Don't do this till you have PMF
+        - Don't go past 20 people until you have PMF
+
+    - **Building a Brand**
+        - Use your solution to build the brand
+            - Great brands are built around customer insight
+            - Don't overthink this
+
+    ---
+
+    Video Link: [https://youtu.be/0LNQxT9LvM0](https://youtu.be/0LNQxT9LvM0)

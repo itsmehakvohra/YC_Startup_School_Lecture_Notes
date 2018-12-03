@@ -1,0 +1,50 @@
+## Michael Siebel
+
+- What problem are you solving?
+    - Can you state the problem clearly in 1-2 sentences?
+    - Have you experienced the problem yourself?
+    - Can you define this problem narrowly?
+    - Is the problem solvable?
+
+- Who is your customer?
+    - Not everyone
+    - How often does your user have a problem?
+    - How intense is the problem?
+        - Low frequence, low intensity = Not a good problem
+    - Are they willing to pay?
+    - How easy are they to find?
+
+- Does your MVP actually solve the problem that you want to solve?
+
+- Which customers should you go after first?
+    - The easiest/desperate ones first
+
+- Identify bad customers - Which customers should you run away from?
+
+- Don't discount or start with a low price
+    - unless it's part of the sale
+    
+- How to set up metrics
+    - Event based metrics for UX behavior
+        - Mixpanel, Amplitude, Heap
+    - Pick 5-10 important metrics
+    - Make measurement part of the product spec
+
+- Product Development Cycle (V1)
+    - Set a KPI Goal
+        - Should almost always be revenue
+        - or Usage if you don't charge customers money
+        - If investor asks for KPI - should not only say metric, but where it is now, where it was 3 months ago, and where it was when started
+    - Brainstorm ideas to move KPI
+    - Set Easy/Medium/Hard table
+        - Hard should be started first
+    - Must write the spec
+
+- Pivot vs Iterate
+    - Pivot - changing the customer and/or the problem
+        - This should be rare, means you should start a new company
+    - Iterate - changing the solution
+
+---
+
+Video Link: [https://www.youtube.com/watch?v=C27RVio2rOs](https://www.youtube.com/watch?v=C27RVio2rOs)
